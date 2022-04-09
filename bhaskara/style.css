@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-image:url("Trippy Wallpapers for Galaxy (72+ pictures).jpg");
+    color: white;
+}
+
+main{
+    flex-direction:column;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    background-color: rgb(66, 68, 65);
+    border-radius: 10px;
+}
+
+.botao{
+    padding: 8px;
+    border: 1px solid black;
+    margin: 5px;
+    border-radius: 10px
+    
+}
+
+#btnCalcular:hover{
+    background-color: rgb(45, 221, 89);
+;
+}
+
+#btnRemover:hover{
+    background-color: rgb(221, 17, 17);
+;
+}
+
+
+
+.inputs{
+    border-radius: 5px;
+    border-color: solid black;
+    background-color: rgb(66, 68, 65);
+    color: white;
+}
+
